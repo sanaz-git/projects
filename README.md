@@ -3,7 +3,7 @@
 
 ## JavaScript
 - Javascript Todo App [demo](https://sanaz-git.github.io/javascript-todo-app/)/[code](https://github.com/sanaz-git/javascript-todo-app?tab=readme-ov-file)
-- Javascript Persian Todo App [demo](https://sanaz-git.github.io/javascript-persian-todo-app/)/[code](https://github.com/sanaz-git/javascript-persian-todo-apps)
+- Javascript Persian Todo App [demo](https://sanaz-git.github.io/javascript-persian-todo-app/)/[code](https://github.com/sanaz-git/javascript-persian-todo-app)
 - Javascript Weather App [demo](https://sanaz-git.github.io/javascript-weather-app/)/[code](https://github.com/sanaz-git/javascript-weather-app)
 - OOP Shoping [demo](https://sanaz-git.github.io/oop-shoping/)/[code](https://github.com/sanaz-git/oop-shoping)
 
