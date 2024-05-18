@@ -16,7 +16,7 @@
 - todo-app-redux [demo](https://todo-app-redux-nine.vercel.app/)/[code](https://github.com/sanaz-git/todo-app-redux)
 - login-form [demo](https://login-form-two-liart.vercel.app/signup)/[code](https://github.com/sanaz-git/login-form)
 - crypto-react [demo](https://crypto-react-ten.vercel.app/)/[code](https://github.com/sanaz-git/crypto-react?tab=readme-ov-file)
-- Login Register-Form-with-Tailwind [demo](https://sanaz-git.github.io/)/[code](https://github.com/sanaz-git/login-register-form?tab=readme-ov-file)
+- Login Tailwind-Form [demo](https://sanaz-git.github.io/)/[code](https://github.com/sanaz-git/login-register-form?tab=readme-ov-file)
 - ag-grid-table [demo]([https://sanaz-git.github.io/](https://fluffy-duckanoo-a73256.netlify.app/))/[code](https://github.com/sanaz-git/ag-grid-table)
 
   
