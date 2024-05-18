@@ -17,7 +17,7 @@
 - login-form [demo](https://login-form-two-liart.vercel.app/signup)/[code](https://github.com/sanaz-git/login-form)
 - crypto-react [demo](https://crypto-react-ten.vercel.app/)/[code](https://github.com/sanaz-git/crypto-react?tab=readme-ov-file)
 - Login Tailwind-Form [demo](https://sanaz-git.github.io/login-register-form/)/[code](https://github.com/sanaz-git/login-register-form?tab=readme-ov-file)
-- ag-grid-table [demo](https://fluffy-duckanoo-a73256.netlify.app/)(https://fluffy-duckanoo-a73256.netlify.app/))/[code](https://github.com/sanaz-git/ag-grid-table)
+- ag-grid-table [demo](https://fluffy-duckanoo-a73256.netlify.app/)/[code](https://github.com/sanaz-git/ag-grid-table)
 
   
 ## TypeScrit 
